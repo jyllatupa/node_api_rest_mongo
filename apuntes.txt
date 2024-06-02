@@ -1,0 +1,10 @@
+NODE CRUD: subido a Railway
+---------
+npm init
+npm i nodemon --save-dev
+npm i express dotenv
+npm i mongoose //modelador para mongoDb
+npm i body-parser
+docker compose up -d
+
+https://hub.docker.com/_/mongo
